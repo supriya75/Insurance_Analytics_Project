@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insurance Analytics Project
 
 ## Project Overview
@@ -27,3 +28,7 @@ This project demonstrates end-to-end insurance claims analytics:
 1. Open `claims_analysis.ipynb` in Jupyter Notebook
 2. Load `claims_data.csv` in the `data/` folder
 3. Run all cells sequentially to view cleaned data, KPIs, and visualizations
+=======
+# Insurance_Analytics_Project
+Python, SQL, and Power BI analytics on synthetic insurance claims
+>>>>>>> cd48f94ea15cbedcce2312b258f6dbf83bb9b9ee
