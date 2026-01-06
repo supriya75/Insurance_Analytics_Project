@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Insurance Analytics Project
 
 ## Project Overview
